@@ -1,0 +1,4 @@
+module CCairo {
+  header "shim.h"
+  export *
+}
